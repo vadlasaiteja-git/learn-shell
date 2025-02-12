@@ -4,3 +4,5 @@ pwd
 
 dnf list installed
 
+
+
