@@ -2,7 +2,8 @@ ls -ls
 
 pwd
 
-dnf list installed
+apt list --installed
+
 
 
 
