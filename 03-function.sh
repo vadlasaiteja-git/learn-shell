@@ -16,3 +16,8 @@ example_func(){
 
 x=3
 example_func
+
+
+# variables in functions
+# In bash shell , if we declare a variable in main program, it is accessible inside function and vice-versa
+
