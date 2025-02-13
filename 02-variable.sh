@@ -27,5 +27,5 @@ echo $a
 # export var=data
 
 # on command line you run export x1=100 before executing this script
-x1=100
+
 echo x1 - $x1
