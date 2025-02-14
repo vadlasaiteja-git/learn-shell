@@ -1,9 +1,8 @@
-ls -ls
+# 1. Environment variables
+# export var=data
 
-pwd
-
-apt list --installed
-
+# on command line you run export x1=100 before executing this script
+echo x1 - $x1
 
 
 
